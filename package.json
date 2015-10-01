@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-zoomify",
+  "version": "1.0.0",
+  "description": "Node support fork of L.TileLayer.Zoomify",
+  "main": "L.TileLayer.Zoomify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Hologram-Rinse/Leaflet.Zoomify.git"
+  },
+  "author": "William Slippey",
+  "license": "ISC",
+  "homepage": "https://github.com/Hologram-Rinse/Leaflet.Zoomify#leafletzoomify",
+  "dependencies": {
+    "leaflet": "^0.7.5"
+  }
+}
